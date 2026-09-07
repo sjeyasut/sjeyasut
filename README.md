@@ -18,7 +18,7 @@ I enjoy working on projects where I can take an idea, figure out how it should w
 
 ### 💻 Things I Like
 
-* Robotics, CAD, and building things (especially Legos and Gundamn) 
+* Robotics, CAD, and building things (especially Legos and Gundum) 
 * Python & Java
 * Learning how systems work and figuring out how to improve them
 * Just talking
